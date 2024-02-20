@@ -74,7 +74,7 @@ export default function Header() {
             </ScrambleText>
           </a>
           <span className="header--hash">{"//"}</span>
-          <a href="https://www.linkedin.com/in/breven-bennett-54b525199/" target={"_blank"} rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/breven-bennett/" target={"_blank"} rel="noopener noreferrer">
             <ScrambleText shuffle delay={1}>
               LINKEDIN
             </ScrambleText>

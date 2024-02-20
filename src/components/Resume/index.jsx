@@ -69,7 +69,7 @@ export default function Resume() {
                 <a href="https://github.com/BrevenBennett" target="_blank" rel="noreferrer">
                   <Icon img={githubIcon} />
                 </a>
-                <a href="https://www.linkedin.com/in/breven-bennett-54b525199/" target="_blank" rel="noreferrer">
+                <a href="https://www.linkedin.com/in/breven-bennett/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
                 <a href="./DavidBragg-resume-2023.pdf">
