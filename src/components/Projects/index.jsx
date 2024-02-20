@@ -37,17 +37,17 @@ export default function Projects() {
     },
     {
       client: "Frontend Simplified",
-      year: "2022",
+      year: "2024",
       img: work2,
       title: "Mentoring the next generation of junior programmers",
       detail: "Empowering students with the knowledge and skills they need to succeed in the dynamic field of programming. Having tutored 100's of students within the Frontend simplified curriculum, this gives me a great inspiration to lead.",
     },
     {
       client: "Personal project",
-      year: "2023",
+      year: "2024",
       img: work3,
-      title: "WoWdle - the daily world of warcraft guessing game",
-      detail: "Having over 100,000+ users in the first month, this tested my ability to scale and succeed. A small WoW based game mixed in with elements of wordle. Check it out on wowdle.app",
+      title: "Summarist - a book summary platform",
+      detail: "I gained an extensive amount of knowledge building this project from scratch. Check it out on summarist-tau.vercel.app",
     },
   ]
 
