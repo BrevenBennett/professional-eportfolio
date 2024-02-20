@@ -29,13 +29,6 @@ export default function Projects() {
 
   const works = [
     {
-      client: "preezie",
-      year: "2023",
-      img: work1,
-      title: "Building from the ground up",
-      detail: "Working at a startup brought the opportunity to bring many projects from their early days of development to a fully fledged application, I've had the opportunity to be a core part of multiple projects at preezie.",
-    },
-    {
       client: "Frontend Simplified",
       year: "2024",
       img: work2,
@@ -47,7 +40,7 @@ export default function Projects() {
       year: "2024",
       img: work3,
       title: "Summarist - a book summary platform",
-      detail: "I gained an extensive amount of knowledge building this project from scratch. Check it out on summarist-tau.vercel.app",
+      detail: "I gained an extensive amount of knowledge building this project from scratch. Check it out at summarist-tau.vercel.app",
     },
   ]
 
