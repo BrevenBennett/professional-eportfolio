@@ -1,19 +1,23 @@
 [
   {
-    "company": "Frontend Simplified",
-    "role": "Programming mentor & Tutor",
+    "company": "Scaling.so",
+    "role": "Frontend Developer",
     "resps": [
-      "Designed and implemented personalized learning plans tailored to each student's skill level and learning style.",
-      "Conducted weekly coding workshops to cover advanced topics and industry best practices in Frontend development.",
-      "Provided constructive feedback and code reviews to help students improve their coding skills and address areas of improvement.",
-      "Created and curated a comprehensive set of educational resources, including coding exercises, projects, and documentation, to support the learning process.",
-      "Collaborated with other mentors to develop and refine the curriculum, ensuring it stays current with the latest trends and technologies in Frontend development.",
-      "Organized and participated in regular one-on-one mentoring sessions to address individual student challenges and provide additional guidance.",
-      "Facilitated group discussions and coding challenges to promote a collaborative and engaging learning environment.",
-      "Stayed updated on industry advancements and emerging technologies to incorporate relevant and cutting-edge content into the curriculum.",
-      "Initiated and managed community-building activities, fostering a sense of camaraderie among students and promoting a positive learning culture.",
-      "Monitored and tracked the progress of each student, celebrating milestones and proactively addressing any obstacles to ensure a successful learning journey."
+      "Implemented OAuth integration for Calendly using its API, ensuring seamless token management by utilizing refresh tokens for extended sessions beyond the initial 2-hour OAuth validity.",
+      "Advanced the user experience through dynamic route changes based on actions like date sorting and event history navigation, fortified by user-centric URL structuring.",
+      "Engineered a robust backend API using Node.js and Express, ensuring scalability, flexibility, and seamless frontend interaction.",
+      "Designed and integrated charts to efficiently represent statistical data, aiding in better user comprehension and decision-making."
     ],
-    "date": "Sep 2023 - Present"
+    "date": "Oct 2023 - Present"
+  },
+  {
+    "company": "Freelance Developer",
+    "role": "Self Employed",
+    "resps": [
+      "Delivered 5 professional websites using HTML5, CSS3 (+ SCSS, BEM), JavaScript and React best practises.",
+      "Improved website performance by compressing, caching and lazy loading images and components.",
+      "Included SEO, responsive, multi-platform and hosting support, enabling their website to be used by any browser or device in the world."
+    ],
+    "date": "Apr 2023 - Sep 2023"
   }
 ]
