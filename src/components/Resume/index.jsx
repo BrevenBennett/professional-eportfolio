@@ -63,7 +63,7 @@ export default function Resume() {
                 <ParaWriting stagger={0.08} text={"Breven Bennett"} />
               </h2>
               <h4>
-                <ScrambleText delay={0}>Software Engineer</ScrambleText>
+                <ScrambleText delay={0}>Frontend Developer</ScrambleText>
               </h4>
               <motion.div initial="hidden" animate={controls} variants={blurVariants} transition={{ duration: 1, delay: 0.5 }} onAnimationComplete={() => handleComplete()} className="resume--grid--detail--data--name--icons">
                 <a href="https://github.com/BrevenBennett" target="_blank" rel="noreferrer">
@@ -101,7 +101,7 @@ export default function Resume() {
         <div className="resume--grid--experience">
           <div className="resume--grid--experience--head">
             <p className="theme--detail">
-              <ScrambleText delay={0}>A highly motivated software engineer prepared to utilise exceptional software, problem-solving and communication skills to further my programming passion as a website developer.</ScrambleText>
+              <ScrambleText delay={0}>A highly motivated frontend developer prepared to utilise exceptional software, problem-solving and communication skills to further my programming passion as a website developer.</ScrambleText>
             </p>
 
             <motion.h3 initial="hidden" animate={controls} variants={opacityVariant} transition={{ duration: 1, delay: 0.5 }} className="theme--text">

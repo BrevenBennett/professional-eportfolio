@@ -1,5 +1,17 @@
 [
   {
+    "company": "TSP Consulting",
+    "role": "Junior Frontend Developer",
+    "resps": [
+      "Design, develop, implement, document, and trubleshoot software, web applications and integrations.",
+      "Research and analyze existing systems and program requirements for new projects.",
+      "Perform unit testing and participate in the creation of regression and integrated testing efforts.",
+      "Develop solutions, system integrations, and web applications using various technologies.",
+      "Participate in code reviews and design/architecture discussions."
+    ],
+    "date": "April 2024 - Present"
+  },
+  {
     "company": "Scaling.so",
     "role": "Frontend Developer",
     "resps": [
@@ -8,7 +20,7 @@
       "Engineered a robust backend API using Node.js and Express, ensuring scalability, flexibility, and seamless frontend interaction.",
       "Designed and integrated charts to efficiently represent statistical data, aiding in better user comprehension and decision-making."
     ],
-    "date": "Oct 2023 - Present"
+    "date": "Oct 2023 - March 2024"
   },
   {
     "company": "Freelance Developer",

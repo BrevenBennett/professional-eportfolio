@@ -6,6 +6,7 @@ import reactIcon from "../assets/Icon/Tech/react.svg";
 import reduxIcon from "../assets/Icon/Tech/redux.svg";
 import firebaseIcon from "../assets/Icon/Tech/firebase.svg";
 import sassIcon from "../assets/Icon/Tech/sass.svg";
+import csharpIcon from "../assets/Icon/Tech/csharp.svg";
 
 const techs = [
     {
@@ -51,10 +52,10 @@ const techs = [
         "Platform developed by Google for creating mobile and web applications.",
     },
     {
-      title: "Sass",
-      icon: sassIcon,
+      title: "C#",
+      icon: csharpIcon,
       detail:
-        "Preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS)",
+        "A simple, powerful, and type-safe language for developing a wide range of applications.",
     },
   ];
 
