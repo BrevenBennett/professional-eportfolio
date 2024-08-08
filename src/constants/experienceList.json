@@ -4,9 +4,9 @@
     "role": "Frontend Development Mentor",
     "resps": [
       "Lead weekly workshops on emerging frontend technologies and conduct biweekly comprehensive code reviews, resulting in improvement in student project quality.",
-      "Manage student progress using project management tools, facilitating regular 1:1 meetings via Calendly to ensure accountability, leading to a 40%  increase in course completion rates.",
-      "Collaborate with career services to evaluate student readiness for job market entry, contributing to a 30% increase in job placement rates.",
-      "Implement and maintain a structured check-in system to monitor overall student development, proactively addressing challenges and reducing dropout rates by 20%."
+      "Manage student progress using project management tools, facilitating regular 1:1 meetings via Calendly to ensure accountability, leading to an increase in course completion rates.",
+      "Collaborate with career services to evaluate student readiness for job market entry, contributing to an increase in job placement rates.",
+      "Implement and maintain a structured check-in system to monitor overall student development, proactively addressing challenges and reducing dropout rates."
     ],
     "date": "June 2024 - Present"
   },
@@ -14,10 +14,10 @@
     "company": "TSP Consulting",
     "role": "Frontend Developer",
     "resps": [
-      "Develop responsive and interactive user interfaces for complex banking applications using React and TypeScript, resulting in a 20% increase in user engagement and a 15% reduction in customer support tickets related to UI issues.",
-      "Utilized Mock Service Worker for robust frontend testing, improving application reliability and reducing development cycle time by 15%.",
-      "Collaborated with cross-functional teams to implement new features and improve existing functionality, contributing to a 10% increase in overall product satisfaction scores.",
-      "Contributed to the development of reusable component libraries, leveraging Material-UI and custom design components, which accelerated project timelines by 20% and improved code consistency across the team."
+      "Develop responsive and interactive user interfaces for complex banking applications using React and TypeScript, resulting in an increase in user engagement and a reduction in customer support tickets related to UI issues.",
+      "Utilized Mock Service Worker for robust frontend testing, improving application reliability and reducing development cycle time.",
+      "Collaborated with cross-functional teams to implement new features and improve existing functionality, contributing to an increase in overall product satisfaction scores.",
+      "Contributed to the development of reusable component libraries, leveraging Material-UI and custom design components, which accelerated project timelines and improved code consistency across the team."
     ],
     "date": "April 2024 - Present"
   },
@@ -25,9 +25,9 @@
     "company": "Scaling.so",
     "role": "Frontend Developer",
     "resps": [
-      "Designed and integrated charts to efficiently represent statistical data, resulting in an improvement in user comprehension of complex financial information and a 25% increase in time spent on data analysis pages.",
-      "Implemented OAuth integration for Calendly using its API, ensuring seamless token management by utilizing refresh tokens for extended sessions beyond the initial 2-hour OAuth validity, reducing user authentication issues by 40%.",
-      "Advanced the user experience through dynamic route changes based on actions like date sorting and event history navigation, fortified by user-centric URL structuring, leading to a 35% decrease in navigation time and a 20% increase in user retention."
+      "Designed and integrated charts to efficiently represent statistical data, resulting in an improvement in user comprehension of complex financial information and an increase in time spent on data analysis pages.",
+      "Implemented OAuth integration for Calendly using its API, ensuring seamless token management by utilizing refresh tokens for extended sessions beyond the initial 2-hour OAuth validity, reducing user authentication issues.",
+      "Advanced the user experience through dynamic route changes based on actions like date sorting and event history navigation, fortified by user-centric URL structuring, leading to a decrease in navigation time and an increase in user retention."
     ],
     "date": "Oct 2023 - March 2024"
   }
