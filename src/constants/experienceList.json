@@ -1,13 +1,23 @@
 [
   {
-    "company": "TSP Consulting",
-    "role": "Junior Frontend Developer",
+    "company": "Frontend Simplified",
+    "role": "Frontend Development Mentor",
     "resps": [
-      "Design, develop, implement, document, and trubleshoot software, web applications and integrations.",
-      "Research and analyze existing systems and program requirements for new projects.",
-      "Perform unit testing and participate in the creation of regression and integrated testing efforts.",
-      "Develop solutions, system integrations, and web applications using various technologies.",
-      "Participate in code reviews and design/architecture discussions."
+      "Lead weekly workshops on emerging frontend technologies and conduct biweekly comprehensive code reviews, resulting in improvement in student project quality.",
+      "Manage student progress using project management tools, facilitating regular 1:1 meetings via Calendly to ensure accountability, leading to a 40%  increase in course completion rates.",
+      "Collaborate with career services to evaluate student readiness for job market entry, contributing to a 30% increase in job placement rates.",
+      "Implement and maintain a structured check-in system to monitor overall student development, proactively addressing challenges and reducing dropout rates by 20%."
+    ],
+    "date": "June 2024 - Present"
+  },
+  {
+    "company": "TSP Consulting",
+    "role": "Frontend Developer",
+    "resps": [
+      "Develop responsive and interactive user interfaces for complex banking applications using React and TypeScript, resulting in a 20% increase in user engagement and a 15% reduction in customer support tickets related to UI issues.",
+      "Utilized Mock Service Worker for robust frontend testing, improving application reliability and reducing development cycle time by 15%.",
+      "Collaborated with cross-functional teams to implement new features and improve existing functionality, contributing to a 10% increase in overall product satisfaction scores.",
+      "Contributed to the development of reusable component libraries, leveraging Material-UI and custom design components, which accelerated project timelines by 20% and improved code consistency across the team."
     ],
     "date": "April 2024 - Present"
   },
@@ -15,21 +25,10 @@
     "company": "Scaling.so",
     "role": "Frontend Developer",
     "resps": [
-      "Implemented OAuth integration for Calendly using its API, ensuring seamless token management by utilizing refresh tokens for extended sessions beyond the initial 2-hour OAuth validity.",
-      "Advanced the user experience through dynamic route changes based on actions like date sorting and event history navigation, fortified by user-centric URL structuring.",
-      "Engineered a robust backend API using Node.js and Express, ensuring scalability, flexibility, and seamless frontend interaction.",
-      "Designed and integrated charts to efficiently represent statistical data, aiding in better user comprehension and decision-making."
+      "Designed and integrated charts to efficiently represent statistical data, resulting in an improvement in user comprehension of complex financial information and a 25% increase in time spent on data analysis pages.",
+      "Implemented OAuth integration for Calendly using its API, ensuring seamless token management by utilizing refresh tokens for extended sessions beyond the initial 2-hour OAuth validity, reducing user authentication issues by 40%.",
+      "Advanced the user experience through dynamic route changes based on actions like date sorting and event history navigation, fortified by user-centric URL structuring, leading to a 35% decrease in navigation time and a 20% increase in user retention."
     ],
     "date": "Oct 2023 - March 2024"
-  },
-  {
-    "company": "Freelance Developer",
-    "role": "Self Employed",
-    "resps": [
-      "Delivered 5 professional websites using HTML5, CSS3 (+ SCSS, BEM), JavaScript and React best practises.",
-      "Improved website performance by compressing, caching and lazy loading images and components.",
-      "Included SEO, responsive, multi-platform and hosting support, enabling their website to be used by any browser or device in the world."
-    ],
-    "date": "Apr 2023 - Sep 2023"
   }
 ]
