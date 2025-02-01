@@ -4,7 +4,7 @@ import MouseFollower from "./components/MouseFollower"
 import Header from "./components/Header"
 import About from "./components/About"
 import TechStack from "./components/TechStack"
-import Projects from "./components/Projects"
+// import Projects from "./components/Projects"
 import Resume from "./components/Resume"
 import Footer from "./components/Footer"
 
@@ -24,7 +24,7 @@ function App() {
       <Header />
       <About />
       <TechStack />
-      <Projects />
+      {/* <Projects /> */}
       <Resume />
       <Footer />
     </main>
