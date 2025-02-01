@@ -63,7 +63,7 @@ export default function Resume() {
                 <ParaWriting stagger={0.08} text={"Breven Bennett"} />
               </h2>
               <h4>
-                <ScrambleText delay={0}>Frontend Developer</ScrambleText>
+                <ScrambleText delay={0}>Business Development Representative</ScrambleText>
               </h4>
               <motion.div
                 initial="hidden"
@@ -87,7 +87,7 @@ export default function Resume() {
                 >
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="./Bennett-Resume.pdf" target="_blank">
+                <a href="./Bennett-Tech-Sales-Resume.pdf" target="_blank">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>
@@ -125,9 +125,11 @@ export default function Resume() {
           <div className="resume--grid--experience--head">
             <p className="theme--detail">
               <ScrambleText delay={0}>
-                A highly motivated frontend developer prepared to utilise
-                exceptional software, problem-solving and communication skills
-                to further my programming passion as a website developer.
+                A highly motivated sales professional prepared to leverage
+                exceptional communication, problem-solving, and
+                relationship-building skills to drive business growth through
+                strategic prospecting and pipeline development in the technology
+                sector.
               </ScrambleText>
             </p>
 

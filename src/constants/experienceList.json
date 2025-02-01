@@ -1,17 +1,17 @@
 [
   {
-    "company": "Frontend Simplified",
-    "role": "Frontend Development Mentor",
+    "company": "HubSpot",
+    "role": "Business Deveopment Representative",
     "resps": [
-      "Lead weekly workshops on emerging frontend technologies and conduct biweekly comprehensive code reviews, resulting in improvement in student project quality.",
-      "Manage student progress using project management tools, facilitating regular 1:1 meetings via Calendly to ensure accountability, leading to an increase in course completion rates.",
-      "Collaborate with career services to evaluate student readiness for job market entry, contributing to an increase in job placement rates.",
-      "Implement and maintain a structured check-in system to monitor overall student development, proactively addressing challenges and reducing dropout rates."
+      "Prospect and engage potential customers through strategic outbound campaigns using HubSpot Sales Hub, maintaining 100+ daily touchpoints across email, phone, and LinkedIn, resulting in consistent pipeline generation and meeting quota attainment.",
+      "Research and qualify target accounts using tools like ZoomInfo and LinkedIn Sales Navigator, ensuring alignment with ideal customer profile (ICP).",
+      "Collaborate with Account Executives to refine sales strategies and improve lead handoff processes.",
+      "Develop and optimize personalized outreach templates and cadences."
     ],
-    "date": "June 2024 - Present"
+    "date": "Feb 2024 - Present"
   },
   {
-    "company": "TSP Consulting",
+    "company": "TSP Consulting Services, Inc.",
     "role": "Frontend Developer",
     "resps": [
       "Develop responsive and interactive user interfaces for complex banking applications using React and TypeScript, resulting in an increase in user engagement and a reduction in customer support tickets related to UI issues.",
@@ -19,16 +19,17 @@
       "Collaborated with cross-functional teams to implement new features and improve existing functionality, contributing to an increase in overall product satisfaction scores.",
       "Contributed to the development of reusable component libraries, leveraging Material-UI and custom design components, which accelerated project timelines and improved code consistency across the team."
     ],
-    "date": "April 2024 - Present"
+    "date": "April 2024 - Jan 2025"
   },
   {
-    "company": "Scaling.so",
-    "role": "Frontend Developer",
+    "company": "Frontend Simplified",
+    "role": "Customer Success Mentor",
     "resps": [
-      "Designed and integrated charts to efficiently represent statistical data, resulting in an improvement in user comprehension of complex financial information and an increase in time spent on data analysis pages.",
-      "Implemented OAuth integration for Calendly using its API, ensuring seamless token management by utilizing refresh tokens for extended sessions beyond the initial 2-hour OAuth validity, reducing user authentication issues.",
-      "Advanced the user experience through dynamic route changes based on actions like date sorting and event history navigation, fortified by user-centric URL structuring, leading to a decrease in navigation time and an increase in user retention."
+      "Lead weekly workshops on emerging frontend technologies and conduct biweekly comprehensive code reviews, resulting in improvement in student project quality.",
+      "Manage student progress using project management tools, facilitating regular 1:1 meetings via Calendly to ensure accountability, leading to an increase in course completion rates.",
+      "Collaborate with career services to evaluate student readiness for job market entry, contributing to an increase in job placement rates.",
+      "Implement and maintain a structured check-in system to monitor overall student development, proactively addressing challenges and reducing dropout rates."
     ],
-    "date": "Oct 2023 - March 2024"
+    "date": "June 2024 - Dec 2024"
   }
 ]

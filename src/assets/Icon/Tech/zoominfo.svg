@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="whiteGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="white"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="30" height="30" rx="4" fill="url(#whiteGradient)"/>
+  <text x="17" y="25" font-size="24" fill="url(#whiteGradient)" text-anchor="middle">Z</text>
+</svg>

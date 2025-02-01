@@ -48,8 +48,10 @@ export default function About() {
           <h2>
             <ParaWriting
               stagger={0.08}
-              text={"I'm a highly motivated frontend developer with a strong "}
-              sec={"passion for website development"}
+              text={"I'm a highly motivated BDR with a strong "}
+              sec={
+                "passion for bridging the gap between technical solutions and business outcomes "
+              }
             />
           </h2>
         </div>
@@ -82,10 +84,11 @@ export default function About() {
         >
           <p className="theme--detail--dark">
             <ScrambleText delay={2}>
-              Currently working for TSP Consulting as a frontend developer, I
-              work on extremely difficult engineering problems every day.
-              Continuously working towards improving my knowledge and skills to
-              develop technologies that contribute to the betterment of society.
+              Currently working for HubSpot as a BDR, I help businesses solve
+              complex operational challenges every day. Continuously working
+              towards deepening my understanding of technology solutions and
+              business processes to help organizations scale and transform their
+              customer relationships for the better.
             </ScrambleText>
           </p>
         </motion.div>

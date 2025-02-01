@@ -101,7 +101,7 @@ export default function Header() {
           </a>
           <span className="header--hash">{"//"}</span>
           <a
-            href="./Bennett-Resume.pdf"
+            href="./Bennett-Tech-Sales-Resume.pdf"
             target={"_blank"}
             rel="noopener noreferrer"
           >
@@ -128,9 +128,7 @@ export default function Header() {
           </h3>
           <p className="theme--detail">
             <ScrambleText shuffle delay={4}>
-              Hello, I’m Breven, I tackle complex engineering challenges daily.
-              My mission is to continuously advance in web development, using my
-              growing expertise to drive societal progress through technology.
+              Hello, I’m Breven, I connect business leaders with innovative technology solutions daily. My mission is to help organizations advance through strategic technology partnerships, using my technical background and consultative approach to drive meaningful business transformations.
             </ScrambleText>
           </p>
         </div>
@@ -185,7 +183,7 @@ export default function Header() {
         <TextWriting
           controls={controls}
           delay={1.65}
-          text={"Frontend"}
+          text={"Business Development"}
           noblink
         />{" "}
         <motion.div
@@ -197,7 +195,7 @@ export default function Header() {
           <TextWriting
             controls={controls}
             delay={2.85}
-            text={"Developer"}
+            text={"Representative"}
             noblink
           />
           <div className="header--name--border">
