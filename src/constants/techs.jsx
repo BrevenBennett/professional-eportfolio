@@ -10,10 +10,8 @@
 import hubspotIcon from "../assets/Icon/Tech/hubspot.svg";
 import salesHubIcon from "../assets/Icon/Tech/saleshub.svg";
 import linkedinIcon from "../assets/Icon/Tech/linkedin.svg";
-import outreachIcon from "../assets/Icon/Tech/outreach.svg";
 import zoomInfoIcon from "../assets/Icon/Tech/zoominfo.svg";
 import gongIcon from "../assets/Icon/Tech/gong.svg";
-import apolloIcon from "../assets/Icon/Tech/apollo.svg";
 
 const techs = [
   {
@@ -35,12 +33,6 @@ const techs = [
       "Advanced lead generation and social selling platform for identifying and connecting with prospects.",
   },
   {
-    title: "Outreach.io",
-    icon: outreachIcon,
-    detail:
-      "Sales engagement platform that helps automate and optimize customer communications and outreach sequences.",
-  },
-  {
     title: "ZoomInfo",
     icon: zoomInfoIcon,
     detail:
@@ -51,12 +43,6 @@ const techs = [
     icon: gongIcon,
     detail:
       "Revenue intelligence platform that analyzes customer interactions to provide insights and coaching opportunities.",
-  },
-  {
-    title: "Apollo.io",
-    icon: apolloIcon,
-    detail:
-      "Sales intelligence and engagement platform for prospecting, engagement tracking, and pipeline management.",
   },
   // {
   //   title: "HTML 5",
